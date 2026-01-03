@@ -1,0 +1,7 @@
+numpy
+pandas
+matplotlib
+scikit-learn
+seaborn
+# torch # 深度学习库比较大，建议根据官网指引单独安装
+# tensorflow 
